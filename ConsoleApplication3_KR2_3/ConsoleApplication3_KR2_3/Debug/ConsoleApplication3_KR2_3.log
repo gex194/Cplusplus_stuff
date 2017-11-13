@@ -1,0 +1,5 @@
+﻿  ConsoleApplication3_KR2_3.cpp
+c:\users\andrew\source\repos\consoleapplication3_kr2_3\consoleapplication3_kr2_3\consoleapplication3_kr2_3.cpp(7): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\andrew\source\repos\consoleapplication3_kr2_3\consoleapplication3_kr2_3\consoleapplication3_kr2_3.cpp(9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\andrew\source\repos\consoleapplication3_kr2_3\consoleapplication3_kr2_3\consoleapplication3_kr2_3.cpp(27): warning C4552: -: оператор не имеет результата; требуется оператор с побочным действием
+  ConsoleApplication3_KR2_3.vcxproj -> C:\Users\Andrew\source\repos\ConsoleApplication3_KR2_3\Debug\ConsoleApplication3_KR2_3.exe

@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2_KR2.cpp
+c:\users\andrew\source\repos\consoleapplication2_kr2\consoleapplication2_kr2\consoleapplication2_kr2.cpp(7): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\andrew\source\repos\consoleapplication2_kr2\consoleapplication2_kr2\consoleapplication2_kr2.cpp(8): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  ConsoleApplication2_KR2.vcxproj -> C:\Users\Andrew\source\repos\ConsoleApplication2_KR2\Debug\ConsoleApplication2_KR2.exe

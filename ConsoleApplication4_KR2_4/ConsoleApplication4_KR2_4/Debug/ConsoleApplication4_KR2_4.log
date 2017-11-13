@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  ConsoleApplication4_KR2_4.cpp
+c:\users\andrew\source\repos\consoleapplication4_kr2_4\consoleapplication4_kr2_4\consoleapplication4_kr2_4.cpp(5): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\andrew\source\repos\consoleapplication4_kr2_4\consoleapplication4_kr2_4\consoleapplication4_kr2_4.cpp(22): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note:  см. объявление "getch"
